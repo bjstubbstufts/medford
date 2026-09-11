@@ -2,7 +2,7 @@
 name = "medford"
 version = "2.1.0"
 authors = [
-  {name = "Polina Shpilker", email = "polina.shpilker@tufts.edu"},
+  {name = "redacted", email = "redacted@redacted.com"},
 ]
 description = "The MEDFORD Parser command line tool for vaidating & compiling medford research metadata files."
 readme = "README.md"
@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/TuftsBCB/medford"
+Repository = "https://anonymous.4open.science/r/medford-20C6/"
 
 [project.scripts]
 medford = "MEDFORD:parse_args_and_go"
